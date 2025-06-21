@@ -1,0 +1,26 @@
+# Spotify Data Analysis using Pandas
+
+## Description
+This project analyzes a Spotify dataset using Python’s Pandas library. It focuses on examining audio features, song popularity, durations, and discovering trends through visualization and statistical summaries.
+
+## Features
+- Data loading and cleaning
+- Feature exploration and filtering
+- Visualization using seaborn/matplotlib
+- Insight generation on song popularity and audio traits
+
+## Dataset Used
+Spotify Dataset (likely in CSV format)
+
+## Required Libraries
+- pandas
+- matplotlib
+- seaborn
+
+## How to Run
+1. Open the notebook in Jupyter or Google Colab.
+2. Ensure the Spotify dataset is accessible and correctly loaded.
+3. Run each cell to perform data analysis and view plots.
+
+## Output Description
+Charts, statistical summaries, and insights into Spotify music data—especially around popularity, duration, and audio features.
