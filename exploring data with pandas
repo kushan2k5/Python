@@ -1,0 +1,24 @@
+readme.md
+# Exploring Data with Pandas
+
+## Description
+This notebook introduces the fundamental functionalities of the Pandas library in Python. It walks through operations such as reading datasets, filtering rows, grouping data, and performing common manipulations—key steps in preparing data for analysis or machine learning.
+
+## Features
+- Reading and inspecting datasets
+- Filtering, grouping, and sorting data
+- Aggregation operations
+- Hands-on Pandas practice
+
+## Dataset Used
+Sample or synthetic dataset (loaded in notebook)
+
+## Required Libraries
+- pandas
+
+## How to Run
+1. Install Jupyter Notebook or open with Google Colab.
+2. Run each cell sequentially to explore and manipulate data using Pandas.
+
+## Output Description
+Demonstrates tabular data operations with intermediate outputs showcasing transformation results.
