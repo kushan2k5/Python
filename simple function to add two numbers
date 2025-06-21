@@ -1,0 +1,16 @@
+# Basic Python Function and Conditional
+
+## Description
+This script defines a simple function to add two numbers and checks whether the result is even or odd. It serves as a beginner-friendly example of how functions and conditional statements work in Python.
+
+## Features
+- Define and call functions
+- Use if-else statements
+- Demonstrate modular code and logical thinking
+
+## Requirements
+- Python 3.x
+
+## How to Run
+```bash
+python function_updated.py
